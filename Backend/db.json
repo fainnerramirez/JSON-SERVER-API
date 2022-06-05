@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "¿Qué es la programación?",
+      "author": "Fainner Ramirez"
+    },
+    {
+      "id": 2,
+      "title": "Manejo de api con javascript",
+      "author": "Alejandro pérez"
+    },
+    { "id": 3, "title": "Rest api con Rust", "author": "Omar valdez" },
+    {
+      "id": 4,
+      "title": "App de escritorio con javascript",
+      "author": "Esteban solorzano"
+    },
+    {
+      "id": 5,
+      "title": "¿Aprender programación es dificil?",
+      "author": "Sofia ternera"
+    },
+    { "id": 6, "title": "Repaso con typescript", "author": "Nivelate" },
+    {
+      "id": 7,
+      "title": "Rust: un lenguaje de gran potencia",
+      "author": "pedro ramirez"
+    },
+    { "id": 8, "title": "Aprende Golang", "author": "Felox mendoza" },
+    { "id": 9, "title": "Apis con .Net core", "author": "Yair altamar" },
+    {
+      "id": 10,
+      "title": "Manejo de estado con React js",
+      "author": "Fainner Ramirez"
+    }
+  ]
+}
